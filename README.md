@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro Aguilar 👋
 
-ICT Engineer based in **Heredia, Costa Rica** transitioning into SRE/DevOps.
+ICT Engineer based in **San José, Costa Rica** transitioning into SRE/DevOps.
 I have a background in software development and IT infrastructure, and I'm actively building hands-on skills in cloud, containers, and automation.
 
 ---
