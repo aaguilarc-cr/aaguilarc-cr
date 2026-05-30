@@ -32,7 +32,7 @@ I have a background in software development and IT infrastructure, and I'm activ
 
 | Project | Description | Stack |
 |---|---|---|
-| [server-health-monitor](https://github.com/aaguilarc-cr/server-health-monitor) | Python bot that monitors CPU, memory and disk across VMs and sends Slack alerts | Python, Bash, Linux |
+| [server-health-monitor](https://github.com/aaguilarc-cr/server-health-monitor) | Python bot that monitors CPU, memory and disk across VMs and sends E-mail alerts | Python, Bash, Linux |
 | *(more coming)* | CI/CD pipeline + Dockerized app | Docker, GitHub Actions |
 | *(more coming)* | AWS infra deployed with Terraform + Grafana monitoring | Terraform, AWS, Grafana |
 
